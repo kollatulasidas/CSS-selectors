@@ -110,23 +110,3 @@ body {
 1. Save the HTML file as `index.html`
 2. Save the CSS file as `style.css`
 3. Open `index.html` in a browser
-
----
-
-## ⚠️ Common Mistakes
-
-- Overusing ID selectors
-- Writing overly complex selectors
-- Misunderstanding :nth-child behavior
-- Ignoring CSS specificity
-
----
-
-## 🔥 Improvements
-
-- Add hover effects for links
-- Use :first-child and :last-child
-- Try :nth-of-type()
-- Learn Flexbox or Grid
-
----
