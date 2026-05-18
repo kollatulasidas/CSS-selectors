@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(250, 151, 129);
+    border: solid black;
+
+}
+h1{
+    color: darkblue;
+    font-size: 20px;
+}
+h2{
+    background-color: yellowgreen;
+    color: blue;
+}
+h4{
+    color:darkblue;
+}
+p{
+    color: white;
+}
+#para{
+    color:darkgreen;
+}
+ul{
+    color: white;
+}
+li:nth-child(1) a{
+    background-color: yellow;
+}
+li:nth-child(2) a{
+    background-color: lightblue ;
+}
+ol li:nth-child(2){
+color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
+span{
+    color: red;
+}
+p span{
+    color:black;
+    font-size: 25px;
+}
